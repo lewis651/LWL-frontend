@@ -1,0 +1,8 @@
+# robots.txt for Automotive Sales, Larry with Larry
+User-agent: *
+Allow: /
+Allow: /assets/
+Disallow: /admin
+Disallow: /#/admin
+
+Sitemap: https://larrywithlarry.com/sitemap.xml
